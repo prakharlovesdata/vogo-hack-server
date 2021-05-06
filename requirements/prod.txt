@@ -1,7 +1,7 @@
 # For core server
 Flask==1.1.1
 flask-restplus==0.13.0
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 
 # For web server
 gunicorn==19.9.0
