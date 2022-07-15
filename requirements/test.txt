@@ -9,7 +9,7 @@ pylint==2.4.3
 # For code coverage reporting
 pytest==5.2.1
 pytest-cov==2.8.1
-codecov==2.0.15
+codecov==2.0.16
 
 # For testing
 Flask-Testing==0.7.1
